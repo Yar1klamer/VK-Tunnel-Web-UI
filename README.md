@@ -29,7 +29,7 @@ npm install express qrcode
 2. Клонируйте проект:
 
 ```bash
-git clone https://github.com/ВАШ_ЮЗЕР/VK-Tunnel-Web-UI.git
+git clone https://github.com/Yar1klamer/VK-Tunnel-Web-UI.git
 cd VK-Tunnel-Web-UI
 ```
 

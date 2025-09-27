@@ -1,14 +1,19 @@
 {
   "name": "vk-tunnel-web",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Веб-интерфейс для easy-vk-tunnel. Генерация VLESS ссылок через VK Tunnel с QR-кодами и удобным UI.",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "vk-tunnel",
+    "vless",
+    "proxy",
+    "web-ui"
+  ],
+  "author": "Yar1klamer",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "cors": "^2.8.5",

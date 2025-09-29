@@ -48,9 +48,9 @@ mkdir files
 cp /путь/к/v2raytun.apk ./files/
 ```
 
-4. Измените 12 строку. Укажите подписку полученную при установке скрипта
+4. Измените 12 строку в server.js. Укажите подписку полученную при установке скрипта
 
-const SUBSCRIPTION_URL = "https://storage.yandexcloud.net/tunnel6528/Mobilka";
+const SUBSCRIPTION_URL = "https://storage.yandexcloud.net/Your_baket/Слово указанное в процессе установки";
 
 5. Запустите сервер:
 
